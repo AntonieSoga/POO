@@ -1,6 +1,12 @@
 # Shoe-Store-C-sharp
 
 Shoe Store Management System
+Technologies used: 
+    -	C#
+    -	MySQL
+    -	Microsoft Office Interop
+    -	MySql Client
+
 
 1. Theme:
 Managing a Shoe Store
@@ -30,3 +36,15 @@ In conclusion, a shoe store application is essential for providing consumers acc
     View log
 
 This shoe store management system aims to provide a seamless shopping experience for both customers and employees, offering a wide range of features to ensure efficient operations and customer satisfaction.
+
+
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/c918b508-9d92-4f34-ba0f-d233e680dcb9)
+
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/bffa0afe-8ce4-4723-86b8-a5de71655701)
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/eb22603b-d867-441e-9134-8d97cabff060)
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/31799df9-c0e4-4b08-9ad6-4f46049b67ed)
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/78eb1708-ec64-4fac-bb48-d155719f1ed4)
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/c7635636-f1ca-47c9-a2d7-d18680299551)
+![image](https://github.com/AntonieSoga/Shoe-Store-C-sharp/assets/81391709/3fd7deed-270f-49d0-80f0-c571af436419)
+
+
